@@ -1,0 +1,40 @@
+.images {
+    border-radius: 0 5% 5% 0;
+    margin-left: 15%;
+    width: 300px;
+}
+
+p , ol{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.margin__left {
+    margin-left: 50px;
+}
+
+p {
+    align-items: center;
+    background: silver;
+    width: 500px;
+}
+
+li {
+    background: lightblue;
+    margin-top: 5px;
+}
+
+h1, b {
+    background: orange;
+}
+
+h2 {
+    background: green;
+}
+
+.ingredients {
+    width: 450px;
+}
+
+p, .ingredients, h2, h1{
+    margin-left: 15%;
+}
