@@ -1,0 +1,207 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+p{
+    text-align: center;
+    font-size: 10px;
+}
+
+.header {
+    float: left;
+    width: 100%;
+    height: 200px;
+    background: pink;
+}
+
+.header__yellow {
+    margin:30px 50px;
+    height: 100px;
+    background: yellow;
+    padding-top: 25px;
+}
+
+.header__black {
+    height: 50px;
+    width: 90%;
+    margin: auto;
+    background: black;
+}
+
+.main__middle {
+    float: left;
+    background-color: grey;
+    width: 100%;
+    height: 150px;
+}
+
+.middle__red, .middle__yellow, .middle__blue, .middle__orange {
+    float: left;
+    height: 70%;
+    width: 25%;
+    margin-top: 10px;
+}
+
+.middle__red { 
+    background: red;
+}
+.middle__yellow {
+    background: yellow;
+}
+.middle__blue {
+    background: blue;
+}
+.middle__orange, .block__left__main {
+    background: orange;
+}
+
+.bottom__block{
+    float: left;
+    width: 100%;
+    height: 300px;
+    background: pink;
+}
+
+.bottom__block__left ,
+.bottom__block__center,
+.bottom__block__right {
+width: 33.3%;
+height:300px;
+float: left;
+}
+
+.bottom__block__left {
+    background: green ;
+}
+.bottom__block__center{
+    background: lightblue;
+}
+.bottom__block__right{
+    background: blue;
+}
+
+.block__left__main {
+    width: 90%;
+    height: 200px;
+    margin: auto;
+    margin-top: 50px;
+}   
+
+.block__left__a {
+    float: left;
+    background: lemonchiffon;
+    width: 50%;
+    height: 160px;
+}
+
+.block__right__b {
+    float: right;
+    background: rgb(238, 216, 16);
+    width: 50%;
+    height: 160px;
+}
+.block__right__b,
+.block__left__a {
+    margin-top: 40px
+}
+.center__block__left,
+.center__block__middle,
+.center__block__right
+ {
+    float: left;
+    width: 33.3%;
+    height: 249px;
+    margin-top: 40px;
+}
+.center__block__left{
+    background: red;
+}
+.center__block__middle {
+    background: yellow;
+}
+.center__block__right{
+    background: orange;
+}
+
+
+.bottom__block__right__main {
+    background: darkblue;
+    float: left;
+    width: 33.4%;
+    height: 300px;
+}
+.center__block__middle__left{
+    float: left;
+    width: 50%;
+    height: 200px;
+    background: coral;
+    margin-top: 49px;
+}
+
+
+.center__block__middle__right {
+float: right;
+width: 50%;
+height: 100px;
+background: crimson;
+margin-top: 149px;
+}
+
+.bottom__block__right__main__left {
+    width: 33.3%;
+    background: purple;
+    height: 100px;
+    margin-top: 150px;
+}
+.bottom__block__right__main__center{
+    width: 33.4%;
+    background: darkgreen;
+    height: 100px;
+    margin-top: 100px;
+}
+.bottom__block__right__main__rigth {
+    width: 33.3%;
+    background: grey;
+    height: 100px;
+    margin-top: 50px;
+}
+
+.bottom__block__right__main__left,
+.bottom__block__right__main__center,
+.bottom__block__right__main__rigth {
+    float: left;
+}
+
+.last_left,
+.last_right {
+    width: 60%;
+    height: 20px;
+    background-color: black;
+}
+
+.last_left { 
+    float: right;
+    margin-top: 20px;
+}
+
+.last_right {
+    float: left;
+    margin-top: 24px;
+}
+
+.last_left > p,
+.last_right > p,
+.footer > p
+{
+    color:white;
+}
+
+.footer {
+    width: 100%;
+    height: 200px;
+    background: black;
+    clear: both;
+
+}
