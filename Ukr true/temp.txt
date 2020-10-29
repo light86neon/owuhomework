@@ -1,0 +1,55 @@
+Фемілі-лук і танці: Бужинська в оксамиті зачарувала ВІДЕО з 3-річними двійнятами
+620 height
+img3section/wallpaper.jpg
+
+    color: white;
+    font-size: 36px;
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 700;
+
+дайджест
+   margin-left: 38px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+    font-size: 22px;
+    text-transform: uppercase;
+    color: #7E0019;
+    cursor: pointer;
+    font-family: 'Vollkorn', serif;
+    font-weight: bolder;
+
+-------------------------------------------------------------------------------
+Приходько привітала "найкращого на землі" чоловіка поцілунком та показала дітей  
+
+Фокіна зажадала, щоби ЗМІ не називали її діда дідом
+
+Фокіна зажадала, щоби ЗМІ не називали її діда дідом
+
+Шоптенко в мінішортах попозувала на пожежній драбині 
+
+320 
+250
+
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 600;
+
+ТаблоID
+
+    margin-left: 38px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+    font-size: 22px;
+    text-transform: uppercase;
+    color: #7E0019;
+    cursor: pointer;
+    font-family: 'Vollkorn', serif;
+    font-weight: bolder;
+
+
+#D91F12
+
+font-family: 'Fira Sans', sans-serif;
+line-height: 1.4em;
+text-transform: uppercase;
+text-align: center;
+font-weight: 800;
